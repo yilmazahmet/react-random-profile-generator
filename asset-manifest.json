@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-random-profile-generator/static/css/main.3b6405e7.css",
+    "main.js": "/react-random-profile-generator/static/js/main.b5dd9f72.js",
+    "index.html": "/react-random-profile-generator/index.html",
+    "main.3b6405e7.css.map": "/react-random-profile-generator/static/css/main.3b6405e7.css.map",
+    "main.b5dd9f72.js.map": "/react-random-profile-generator/static/js/main.b5dd9f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b6405e7.css",
+    "static/js/main.b5dd9f72.js"
+  ]
+}
